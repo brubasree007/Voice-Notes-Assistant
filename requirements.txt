@@ -1,0 +1,9 @@
+flask
+flask-cors
+gradio
+openai-whisper
+openai
+python-dotenv
+requests
+torch
+setuptools-rust
